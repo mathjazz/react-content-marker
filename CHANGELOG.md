@@ -2,6 +2,11 @@
 
 ## Current
 
+## 1.1.2 (April 6, 2020)
+
+- Update vulnerable dependencies.
+- Bumps acorn from 5.7.3 to 5.7.4 (#5)[https://github.com/mozilla/react-content-marker/pull/5].
+
 ## 1.1.1 (November 4, 2019)
 
 - Update vulnerable dependencies.
